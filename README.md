@@ -1,6 +1,6 @@
 ## Atmospheric Escape and Evolution
 
-We invite the exoplanet science community to attend this exciting splinter session to be held during the [Exoplanets 4](https://aas.org/meetings/aastcs9/exoplanets) conference. 
+We invite the exoplanet science community to attend this exciting splinter session to be held during the [Exoplanets 4](https://aas.org/meetings/aastcs9/exoplanets) conference. There will be no option for remote participation.
 
 🗓 **When:** Wednesday, May 4th 2022, 1:00 PM PT.
 
