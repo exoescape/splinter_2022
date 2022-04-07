@@ -39,7 +39,6 @@ You will be able to submit a short abstract if you plan on giving a contributed 
 
 ## Coming soon!
 
-- Invited speakers
 - List of participants
 - Final program
 - Coffee-break menu
