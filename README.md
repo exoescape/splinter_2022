@@ -32,6 +32,11 @@ You will be able to submit a short abstract if you plan on giving a contributed 
 - 3:30 PM -- 4:00 PM: Topical discussions
 - 4:00 PM: End
 
+### Invited speakers
+
+- Theory: Chenliang Huang (University of Arizona)
+- Observations: TBD
+
 ## Coming soon!
 
 - Invited speakers
