@@ -37,7 +37,7 @@ You will be able to submit a short abstract if you plan on giving a contributed 
 ### Invited review speakers
 
 - Theory: Chenliang Huang (University of Arizona)
-- Observations: TBD
+- Observations: Allison Youngblood (NASA Goddard Space Flight Center)
 
 ## Coming soon!
 
