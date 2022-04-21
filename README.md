@@ -39,7 +39,9 @@ You will be able to submit a short abstract if you plan on giving a contributed 
 - Theory: Chenliang Huang (University of Arizona)
 - Observations: Allison Youngblood (NASA Goddard Space Flight Center)
 
-## Coming soon!
+## Practical info
+
+Consult [this Google Docs file](https://docs.google.com/document/d/12_a5MZhwhOunWNOSOEwcRRMulfxoNSc5MY5VZAkGN7s/edit?usp=sharing) for:
 
 - List of participants
 - Final program
