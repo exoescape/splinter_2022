@@ -16,13 +16,7 @@ The session will be open for contributed, short talks of 10 minutes each, includ
 
 ## Registration
 
-If you wish to participate in this session, please use the following link: 
-
-[Registration form](https://forms.gle/DjKvoFWkuh4tBTsh6)
-
-**Deadline: April 22, 2022**
-
-You will be able to submit a short abstract if you plan on giving a contributed talk, or a topic for in-depth discussion. If we receive more talk submissions than we can accomodate in our agenda, we will give preference for early-career scientists.
+The online registration is now closed, but you can still drop in the session if you want.
 
 ## Preliminary agenda
 
