@@ -10,7 +10,7 @@ We invite the exoplanet science community to attend this exciting splinter sessi
 
 This session is dedicated to discussions on theoretical and observational aspects of atmospheric escape, as well as their impact on exoplanetary evolution and demographics. These discussions will range from the big picture landscape to technical details. We aim to provide early-career scientists with an extra opportunity to present their work, and particularly encourage poster presenters to give a splinter talk. Finally, we also welcome attending participants that do not have plans to present but wish to join the session. 
 
-With TESS discovering many new exoplanets orbiting bright stars, the continued operations of the Hubble Space Telescope, and the development of new methods to observe/model atmospheric escape, there is no better timing to hold this splinter session. Lasting for about three hours, we will have two invited speakers who will review the state of the field in observations and theory. 
+With TESS discovering many new exoplanets orbiting bright stars, the continued operations of the Hubble Space Telescope, and the development of new methods to observe/model atmospheric escape, there is no better timing to hold this splinter session. Lasting for about four hours, we will have two invited speakers who will review the state of the field in observations and theory. 
 
 The session will be open for contributed, short talks of 10 minutes each, including questions. Depending on the number of participants, we may break out into parallel working groups for discussing and tackling specific problems. We also plan on holding a coffee break in between talks. This plan is not set in stone and we will tailor it depending on the number of submissions and participants.
 
