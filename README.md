@@ -16,7 +16,7 @@ The session will be open for contributed, short talks of 10 minutes each, includ
 
 ## Registration
 
-The online registration is now closed, but you can still drop in the session if you want.
+The abstract submission for talks is now **closed**, but you can still [register](https://forms.gle/DjKvoFWkuh4tBTsh6) or just drop in the session.
 
 ## Preliminary agenda
 
