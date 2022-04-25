@@ -24,9 +24,11 @@ The abstract submission for talks is now **closed**, but you can still [register
 - 1:05 PM -- 2:05 PM: Invited review talks
 - 2:05 PM -- 2:35 PM: First round of contributed talks
 - 2:35 PM -- 3:00 PM: Coffee-break
-- 3:00 PM -- 3:30 PM: Second round of contributed talks
-- 3:30 PM -- 4:00 PM: Topical discussions
-- 4:00 PM: End
+- 3:00 PM -- 3:40 PM: Second round of contributed talks
+- 3:40 PM -- 3:50 PM: Short break
+- 3:50 PM -- 4:20 PM: Third round of contributed talks
+- 4:20 PM -- 5:00 PM: Topical discussions
+- 5:00 PM: End
 
 ### Invited review speakers
 
