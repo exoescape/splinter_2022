@@ -18,13 +18,13 @@ The session will be open for contributed, short talks of 10 minutes each, includ
 
 The abstract submission for talks is now **closed**, but you can still [register](https://forms.gle/DjKvoFWkuh4tBTsh6) or just drop in the session.
 
-## Preliminary agenda
+## Agenda
 
 - 1:00 PM -- 1:05 PM: Introduction
 - 1:05 PM -- 2:05 PM: Invited review talks
-- 2:05 PM -- 2:35 PM: First round of contributed talks
-- 2:35 PM -- 3:00 PM: Coffee-break
-- 3:00 PM -- 3:40 PM: Second round of contributed talks
+- 2:05 PM -- 2:45 PM: First round of contributed talks
+- 2:45 PM -- 3:10 PM: Coffee-break
+- 3:10 PM -- 3:40 PM: Second round of contributed talks
 - 3:40 PM -- 3:50 PM: Short break
 - 3:50 PM -- 4:20 PM: Third round of contributed talks
 - 4:20 PM -- 5:00 PM: Topical discussions
